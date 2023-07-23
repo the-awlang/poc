@@ -26,4 +26,8 @@ else
 
 ## Compilation
 
-For this POC I want to create a simple AOT compiler for x86-64 that should be able to compile a single `.aw` file to working `.exe` file.
+For this POC I want to create a simple AOT compiler for x86-64 that should be able to compile a single `.aw` file to a working `.exe` file.
+
+## License
+
+This repo is licensed under the [MIT](./LICENSE) license.
