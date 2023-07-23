@@ -16,11 +16,11 @@ int y = 8;
 
 if (x > y)
 {
-  WriteLine(x - y);
+  WriteLine(x);
 }
 else
 {
-  WriteLine(x + y)
+  WriteLine(y)
 }
 ```
 
